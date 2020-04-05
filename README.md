@@ -1,3 +1,3 @@
 # FashMNIST
 
-For use in Google colab
+Assignment in neural networks
